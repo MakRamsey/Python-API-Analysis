@@ -1,3 +1,7 @@
+# Ignore .DS_Store & .ipynb_checkpoints
+**/.DS_Store
+**/.ipynb_checkpoints
+
 # Adding config.py file.
 api_keys.py
 
